@@ -1,0 +1,22 @@
+@import "tailwindcss";
+body{
+    background-color: black;
+    color: white;
+}
+.slide::-webkit-scrollbar{
+    display: none !important;
+}
+.Loading {
+    font-family: "Rubik", sans-serif;
+    font-optical-sizing: auto;
+    font-weight:500;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+  }
+  .Main-heading {
+    font-family: "Cormorant Garamond", serif;
+        font-optical-sizing: auto;
+        font-weight: 700;
+        font-style: normal;
+      
+  }
